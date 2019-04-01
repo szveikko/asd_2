@@ -1,4 +1,4 @@
-void future(Chinese horoscope[])
+void future(Chinese horoscope[], char *ize)
 {
-    printf("%s", "goat");
+    printf("%s , %s", "goat", ize);
 }
