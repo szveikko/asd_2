@@ -1,4 +1,4 @@
-void print_team_name(team_name[])
+void print_team_name(language[],team_name[])
 {
-    printf("%s", "C IS THE SUPERIOR LANGUAGE")
+    printf("%s %s", "C IS THE SUPERIOR LANGUAGE","TEAM_ASD");
 }
