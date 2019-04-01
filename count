@@ -1,4 +1,4 @@
 count(int age){;
     int month = 20;
-    printf("You are %d, months old", month*age);
+    printf("Counting the countless parameter");
 }
