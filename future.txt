@@ -1,3 +1,4 @@
-void future(char *dog) {
-printf("%s", dog);
+void future(Chinese horoscope[])
+{
+    printf("%s", "goat");
 }
