@@ -1,3 +1,4 @@
-void print_team_name(team_name[]){
-printf("%s", "TEAM_ASD)
+void print_team_name(team_name[])
+{
+    printf("%s", "TEAM_ASD")
 }
