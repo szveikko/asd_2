@@ -1,4 +1,4 @@
 void greet (char* a)
 {
-printf("Greetings!");
+printf("Greetings! ");
 }
