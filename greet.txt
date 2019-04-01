@@ -1,4 +1,4 @@
-void greet ()
+void greet (char* a)
 {
-printf("Laci");
+printf("%s", a);
 }
