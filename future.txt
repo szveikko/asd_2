@@ -1,3 +1,3 @@
-void future() {
-printf("kos");
+void future(char *dog) {
+printf("%s", dog);
 }
