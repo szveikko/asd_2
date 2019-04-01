@@ -1,3 +1,4 @@
 count(int age){
-    printf("%d", age);
+    int new_parameter = 420;
+    printf("%d, %d", age, new_parameter);
 }
