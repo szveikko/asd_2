@@ -1,4 +1,5 @@
-count(int age){;
+count(int age, char* name){;
     int month = 20;
-    printf("You are %d, months old", month*age);
+    char name_temp[20] = name;
+    printf("%s is %d, months old", name, month*age);
 }
