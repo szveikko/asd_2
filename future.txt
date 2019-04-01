@@ -1,0 +1,3 @@
+void future() {
+printf("kos");
+}
