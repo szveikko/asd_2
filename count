@@ -1,5 +1,4 @@
-count(int age){
-    int new_parameter = 420;
-    int month = 02;
-    printf("%d, %d", age, month);
+count(int age){;
+    int month = 20;
+    printf("You are %d, months old", month*age);
 }
