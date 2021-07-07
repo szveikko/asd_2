@@ -1,5 +1,4 @@
 count(int age, char* name){;
     int month = 20;
-    char name_temp[20] = name;
-    printf("%s is %d, months old", name, month*age);
+    printf("Counting the countless parameter");
 }
